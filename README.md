@@ -58,4 +58,4 @@ Se utiliza 1 para volver a la forma inicial
 
 Finalmente se usa p para reiniciar todo
 
-
+Escape para salir
